@@ -1,0 +1,3 @@
+[submodule "OpenCV_Simple"]
+	path = OpenCV_Simple
+	url = https://github.com/omarfarukof/OpenCV_Simple.git
